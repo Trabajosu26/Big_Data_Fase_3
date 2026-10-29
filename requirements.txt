@@ -1,0 +1,7 @@
+# Para ejecutar el productor (en el Python que utilizarás en Ubuntu):
+kafka-python>=2.0.2,<4
+
+# Para generar la imagen de resultados de la práctica batch:
+matplotlib>=3.5
+
+# Spark/PySpark debe estar instalado y configurado en la máquina virtual.
